@@ -1,5 +1,8 @@
 # 📢 README: How to Get Through This Without Losing Your Mind 😤
 
+
+YEah b4 you do anything..i want you to delete the current one if you are directly adding this to your assignment and change the name...like remove the (5) from the name..or simply use this as reference and then do your assignment (IF YOU ARE USING THIS AS REFERENCE THEN DONT DELETE)..
+
 ## 🚀 Step 1: Restart Kernel (Yes, You Really Have To)
 Before you do **anything**, restart the kernel. I know, I know—you think you don’t need to, but trust me, you do. Go to **Kernel > Restart & Clear Output**. Otherwise, enjoy watching your errors pile up like bad life choices. 🤡
 
